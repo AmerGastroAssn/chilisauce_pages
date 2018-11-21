@@ -89,3 +89,4 @@ fabric.properties
 !.vscode/extensions.json
 .idea/
 
+aws/

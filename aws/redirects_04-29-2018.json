@@ -1,0 +1,1703 @@
+[
+  {
+    "oldPath": "/patient-care",
+    "newPath": "/practice-guidance/practice-updates"
+  },
+  {
+    "oldPath": "/patient-care/conditions",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/barretts-esophagus",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/celiac-disease",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/cirrhosis",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/clostridium-difficile-infection",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/constipation",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/colorectal-cancer",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/colorectal-cancer-guidelines",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/crohns-disease",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/diverticulitis",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/eosinophilic-esophagitis",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/dyspepsia",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/functional-gi-disorders",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/gallstones",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/gas-in-the-digestive-tract",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/gerd",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/hemorrhoids",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/hepatitis-c",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/ibd",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/irritable-bowel-syndrome",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions/obesity",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions/obesity/assessment",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions/obesity/cornerstone-therapy",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions/obesity/reassessmonitor",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions/obesity/second-level-therapy",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/pancreatitis",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/qualitycrc",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/peptic-ulcer-disease",
+    "newPath": "/practice-guidance/patientInfo/conditions"
+  },
+  {
+    "oldPath": "/patient-care/procedures",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/capsule-endoscopy",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/ct-colonography",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/colonoscopy",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/colonoscopy-guidelines",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/endoscopy",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/ercp",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/fecal-microbiota-transplant-fmt",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/eus",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/fmt-practitioners",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/gerd-procedures",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/procedures/upper-endoscopy-egd",
+    "newPath": "/practice-guidance/patientInfo/procedures"
+  },
+  {
+    "oldPath": "/patient-care/diet-medication",
+    "newPath": "/practice-guidance/patientInfo/diet-and-medication"
+  },
+  {
+    "oldPath": "/patient-care/diet-medication/food-allergies-and-intolerances",
+    "newPath": "/practice-guidance/patientInfo/diet-and-medication"
+  },
+  {
+    "oldPath": "/patient-care/diet-medication/lowfodmap-diet",
+    "newPath": "/practice-guidance/patientInfo/diet-and-medication"
+  },
+  {
+    "oldPath": "/patient-care/diet-medication/probiotics",
+    "newPath": "/practice-guidance/patientInfo/diet-and-medication"
+  },
+  {
+    "oldPath": "/patient-care/diet-medication/biosimilars",
+    "newPath": "/practice-guidance/patientInfo/diet-and-medication"
+  },
+  {
+    "oldPath": "/patient-care/patientinfo-center",
+    "newPath": "/practice-guidance/gi-patient-center"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/patient-info-reviewers",
+    "newPath": "/practice-guidance/gi-patient-center/acknowledgements"
+  },
+  {
+    "oldPath": "/patient-care/conditions-diseases/glossary",
+    "newPath": "/practice-guidance/gi-patient-center/patient-glossary"
+  },
+  {
+    "oldPath": "/patient-care/patientinfo-center/emr-instructions",
+    "newPath": "/practice-guidance/gi-patient-center/ehr-instructions"
+  },
+  {
+    "oldPath": "/patient-care/registries-studies",
+    "newPath": "/research-and-awards/registries-and-studies"
+  },
+  {
+    "oldPath": "/patient-care/registries-studies/fmt-registry",
+    "newPath": "/research-and-awards/registries-and-studies/fecal-microbiota-transplantation-fmt-national-registry"
+  },
+  {
+    "oldPath": "/patient-care/registries-studies/star-registry-faqs",
+    "newPath": "/research-and-awards/registries-and-studies"
+  },
+  {
+    "oldPath": "/patient-care/registries-studies/star-registry",
+    "newPath": "/research-and-awards/registries-and-studies"
+  },
+  {
+    "oldPath": "/patient-care/patient-center",
+    "newPath": "/practice-guidance/gi-patient-center"
+  },
+  {
+    "oldPath": "/practice-management",
+    "newPath": "/practice-guidance/practice-updates"
+  },
+  {
+    "oldPath": "/practice-management/emr-eprescribing",
+    "newPath": "/practice-guidance/new-technology-and-techniques"
+  },
+  {
+    "oldPath": "/practice-management/quality/performance-measures",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/quality-reportng/digestive-health-recognition-program-dhrp",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/federal-quality-programs",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/quality-reportng/physician-quality-reporting-system-pqrs",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/quality-reportng/qualified-clinical-data-registries-qcdr",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/quality-improvement-timeline",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/choosing-wisely",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/epocrates-resources",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/tools-for-gi-ascs",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/national-quality-strategy",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/cms-framework-for-measurement",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/dhrp-learning",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/quality/dhrp-benefits",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/coding",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/codes-by-procedure",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/cpt-process",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/ruc-process",
+    "newPath": "/practice-guidance/reimbursement/ruc-process"
+  },
+  {
+    "oldPath": "/practice-management/coding/icd10-indepth",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/icd10",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/lower-gi-endoscopy-coding",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/evaluation-management-faq",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/ruc-survey-instrument-faq",
+    "newPath": "/practice-guidance/reimbursement/ruc-process"
+  },
+  {
+    "oldPath": "/practice-management/coding/screening-colonoscopy-faq",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/gcodes-for-lower-gi-endoscopy-faq",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/upper-gi-endoscopy-coding",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/coding-billing-corner",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/fmt-coding-guidance",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/coding/gi-endoscopy-coding-for-2016",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement",
+    "newPath": "/practice-guidance/reimbursement"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement/macra",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement/macra/apms",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement/macra/gi-only-and-solo-practitioners",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement/macra/amcs-and-multispecialty",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/practice-management/quality/bundled-payment-options",
+    "newPath": "/practice-guidance/reimbursement"
+  },
+  {
+    "oldPath": "/practice-management/quality/bundled-payment-terms",
+    "newPath": "/practice-guidance/reimbursement"
+  },
+  {
+    "oldPath": "/practice-management/nonprocedural-business-lines",
+    "newPath": "/practice-guidance/practice-updates"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement/price-transparency",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement/macrau",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/practice-management/reimbursement/macrau/mips",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/practice-management/measures/hcc-surveillance",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/measures/systematic-biopsies-during-surveillance-esophagoscopy-or-esophagogastroduodenoscopy-egd",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/practice-management/measures/esophagoscopy-or-esophagogastroduodenoscopy-egd-interval",
+    "newPath": "/practice-guidance/quality-and-performance-measures"
+  },
+  {
+    "oldPath": "/research-funding",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards"
+  },
+  {
+    "oldPath": "/grants/aga-fellow-abstract-award",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-fellow-abstract-award"
+  },
+  {
+    "oldPath": "/grants/aga-moti-l-kamla-rustgi-international-travel-awards",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-moti-l-and-kamla-rustgi-international-travel-awards"
+  },
+  {
+    "oldPath": "/grants/aga-student-abstract-award",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-student-abstract-award"
+  },
+  {
+    "oldPath": "/grants/aga-caroline-craig-augustyn-damian-augustyn-award-in-digestive-cancer",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-caroline-craig-augustyn-and-damian-augustyn-award-in-digestive-cancer"
+  },
+  {
+    "oldPath": "/grants/aga-r-robert-sally-funderburg-research-award-in-gastric-cancer",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-r-robert-and-sally-funderburg-research-award-in-gastric-cancer"
+  },
+  {
+    "oldPath": "/grants/aga-boston-scientific-technology-and-innovation-pilot-award",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-boston-scientific-technology-and-innovation-pilot-research-award"
+  },
+  {
+    "oldPath": "/grants/aga-elsevier-pilot-research-award",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-elsevier-pilot-research-award"
+  },
+  {
+    "oldPath": "/grants/aga-pfizer-young-investigator-pilot-research-award-in-inflammatory-bowel-disease",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-pfizer-young-investigator-pilot-research-award-in-inflammatory-bowel-disease"
+  },
+  {
+    "oldPath": "/grants/aga-rome-foundation-functional-gi-and-motility-disorders-pilot-research-award",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-rome-foundation-functional-gi-and-motility-disorders-pilot-research-award"
+  },
+  {
+    "oldPath": "/grants/aga-gastric-cancer-foundation-research-scholar-award-in-gastric-cancer",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-gastric-cancer-foundation-ben-feinstein-memorial-research-scholar-award-in-gastric-cancer"
+  },
+  {
+    "oldPath": "/grants/aga-rady-children-s-institute-for-genomic-medicine-research-scholar-award-in-pediatric-genomics",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-rady-childrens-institute-for-genomic-medicine-research-scholar-award-in-pediatric-genomics"
+  },
+  {
+    "oldPath": "/grants/aga-bernard-lee-schwartz-foundation-research-scholar-award-in-pancreatic-cancer",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-bernard-lee-schwartz-foundation-research-scholar-award-in-pancreatic-cancer"
+  },
+  {
+    "oldPath": "/grants/aga-takeda-pharmaceuticals-research-scholar-award-in-inflammatory-bowel-disease",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-takeda-pharmaceuticals-research-scholar-award-in-inflammatory-bowel-disease"
+  },
+  {
+    "oldPath": "/grants/research-scholar-award-rsa",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-research-scholar-award-rsa"
+  },
+  {
+    "oldPath": "/grants/aga-allergan-foundation-pilot-research-award-in-gastroparesis",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-allergan-foundation-pilot-research-award-in-gastroparesis"
+  },
+  {
+    "oldPath": "/grants/aga-allergan-foundation-pilot-research-award-in-irritable-bowel-syndrome",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-allergan-foundation-pilot-research-award-in-irritable-bowel-syndrome"
+  },
+  {
+    "oldPath": "/grants/aga-elsevier-gut-microbiome-pilot-research-award",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards"
+  },
+  {
+    "oldPath": "/education",
+    "newPath": "agau.gastro.org"
+  },
+  {
+    "oldPath": "/take-action",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/issue-briefs",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/reimbursement",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/reimbursement"
+  },
+  {
+    "oldPath": "/take-action/top-issues/reimbursement-issue-brief",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/reimbursement"
+  },
+  {
+    "oldPath": "/take-action/issue-briefs/macra-implementation",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/macra-implementation"
+  },
+  {
+    "oldPath": "/take-action/top-issues/research-funding",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/research-funding"
+  },
+  {
+    "oldPath": "/take-action/top-issues/patient-cost-sharing-for-screening-colonoscopy",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/patient-cost-sharing-for-screening-colonoscopy"
+  },
+  {
+    "oldPath": "/take-action/top-issues/inoffice-ancillary-services",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/in-office-ancillary-services"
+  },
+  {
+    "oldPath": "/take-action/top-issues/payment",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/medical-liability-reform",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/medical-liability-reform"
+  },
+  {
+    "oldPath": "/take-action/top-issues/patient-access",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/patient-access"
+  },
+  {
+    "oldPath": "/take-action/top-issues/2015-medicare-rule-key-provisions",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/2014-medicare-rule-key-provisions",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/inoffice-ancillary-services-patient-faq",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/in-office-ancillary-services"
+  },
+  {
+    "oldPath": "/take-action/top-issues/inoffice-ancillary-services-aga-response-to-gao-report",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/proposed-2016-colonoscopy-reimbursement-faqs",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/2016-medicare-rule-key-provisions",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/key-provisions-in-the-2016-medicare-hopps-and-asc-final-rule",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/support-innovations-in-gi-research-and-patient-care",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/patient-protections-and-access-to-care",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/top-issues/aga-supports-restoring-the-patients-voice-act",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues/aga-supports-restoring-the-patients-voice-act"
+  },
+  {
+    "oldPath": "/take-action/top-issues/regulatory-relief-for-gastroenterologist",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/take-action/news",
+    "newPath": "/advocacy-and-policy/issues-and-news/in-the-news"
+  },
+  {
+    "oldPath": "/take-action/aga-pac",
+    "newPath": "/advocacy-and-policy/aga-pac"
+  },
+  {
+    "oldPath": "/take-action/aga-pac/pac-faq",
+    "newPath": "/advocacy-and-policy/aga-pac/pac-faq"
+  },
+  {
+    "oldPath": "/take-action/coalitions",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/news/article",
+    "newPath": " /research-and-awards/gut-microbiome"
+  },
+  {
+    "oldPath": "/trainees",
+    "newPath": "/fellows-and-early-career/training-resources"
+  },
+  {
+    "oldPath": "/trainees/training-resources",
+    "newPath": "/fellows-and-early-career/training-resources"
+  },
+  {
+    "oldPath": "/trainees/career",
+    "newPath": "/fellows-and-early-career/training-resources"
+  },
+  {
+    "oldPath": "/trainees/fellowship-match",
+    "newPath": "/fellows-and-early-career/fellowship-match"
+  },
+  {
+    "oldPath": "/trainees/mentoring",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profiles/mentor-profile-maria-abreu",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-debra-silberg",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-frank-anania",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-nicholas-davidson",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-darrell-pardi",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-don-rockey",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-suzanne-rose",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-rhonda-souza",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-keith-wilson",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-peter-buch",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-arthur-asher-kornbluth",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-douglas-levine",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-bennie-upchurch",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profiles/mentor-profile-sample",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-arthur-decross",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-lisa-gangarosa",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-rozina-mithani",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-deborah-proctor",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-uzma-siddiqui",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-juan-francisco-riveraramos",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-esther-torres",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-carla-ginsburg",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-jonathan-kaunitz",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-peter-holt",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-barbara-jung",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-sri-komanduri",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-marcelo-vela",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-kisha-weiser",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-profile-deborah-a-fisher",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/mentoring/mentor-su-lechu",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/trainees/organizations",
+    "newPath": "/fellows-and-early-career/training-resources"
+  },
+  {
+    "oldPath": "/trainees/gi-core-curriculum",
+    "newPath": "/fellows-and-early-career/training-resources"
+  },
+  {
+    "oldPath": "/trainees/trainee-gte",
+    "newPath": "/fellows-and-early-career/training-resources/fellows-resources/aga-gastroenterology-training-examination"
+  },
+  {
+    "oldPath": "/trainees/trainees-faq-gitransplant-hepatology-pilot",
+    "newPath": "/fellows-and-early-career/fellowship-match"
+  },
+  {
+    "oldPath": "/trainees/faq-gitransplant-hepatology-pilot-fellowship-training",
+    "newPath": "/fellows-and-early-career/fellowship-match/faq-gi-transplant-hepatology-pilot-fellowship-training"
+  },
+  {
+    "oldPath": "/trainees/gte-post-exam-resources",
+    "newPath": "/fellows-and-early-career/training-resources/fellows-resources/aga-gastroenterology-training-examination"
+  },
+  {
+    "oldPath": "/trainees/tips-for-new-gi-fellows",
+    "newPath": "/fellows-and-early-career/training-resources/fellows-resources/10-tips-for-new-gi-fellows"
+  },
+  {
+    "oldPath": "/trainees/training-programs/aga-core-program",
+    "newPath": "/fellows-and-early-career/training-resources/aga-core-program"
+  },
+  {
+    "oldPath": "/journals-and-publications",
+    "newPath": "gastro.org"
+  },
+  {
+    "oldPath": "/journals-and-publications/eic-gi-hepatology-news",
+    "newPath": "www.mdedge.com/gihepnews"
+  },
+  {
+    "oldPath": "/journals-and-publications/gastroenterology",
+    "newPath": "gastrojournal.org"
+  },
+  {
+    "oldPath": "/journals-and-publications/clinical-gastroenterology-hepatology",
+    "newPath": "cghjournal.org"
+  },
+  {
+    "oldPath": "/journals-and-publications/cellular-and-molecular-gastroenterology-and-hepatology",
+    "newPath": "cmghjournal.org"
+  },
+  {
+    "oldPath": "/journals-and-publications/gi-hepatology-news",
+    "newPath": " www.mdedge.com/gihepnews"
+  },
+  {
+    "oldPath": "/journals-and-publications/video-insights",
+    "newPath": " www.mdedge.com/gihepnews/multimedia"
+  },
+  {
+    "oldPath": "/journals-and-publications/the-new-gastroenterologist",
+    "newPath": " www.mdedge.com/gihepnews/new-gastroenterologist"
+  },
+  {
+    "oldPath": "/journals-and-publications/aga-perspectives",
+    "newPath": "perspectives.gastro.org"
+  },
+  {
+    "oldPath": "/journals-and-publications/aga-edigest",
+    "newPath": "gastro.org"
+  },
+  {
+    "oldPath": "/journals-and-publications/request-for-applications-editorinchief-cgh",
+    "newPath": "cghjournal.org"
+  },
+  {
+    "oldPath": "/about",
+    "newPath": "/about-aga/about-us"
+  },
+  {
+    "oldPath": "/about/people",
+    "newPath": "/about-aga/about-us"
+  },
+  {
+    "oldPath": "/about/people/governing-board",
+    "newPath": "/aga-leadership/aga-institute-governing-board"
+  },
+  {
+    "oldPath": "/about/people/committees",
+    "newPath": "/aga-leadership/committees"
+  },
+  {
+    "oldPath": "/about/people/committees/audit-committee",
+    "newPath": "/aga-leadership/committees/aga-audit-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/clinical-guidelines-committee",
+    "newPath": "/aga-leadership/committees/clinical-guidelines-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/clinical-practice-updates-committee",
+    "newPath": "/aga-leadership/committees/clinical-practice-updates-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/diversity-committee",
+    "newPath": "/aga-leadership/committees/diversity-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/education-and-training-committee",
+    "newPath": "/aga-leadership/com%EF%BB%BFmittees/education-and-training-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/finance-and-operations-committee",
+    "newPath": "/aga-leadership/committees/finance-and-operations-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/ethics-committee",
+    "newPath": "/aga-leadership/committees/institute-ethics-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/government-affairs-committee",
+    "newPath": "/aga-leadership/committees/government-affairs-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/international-committee",
+    "newPath": "/aga-leadership/committees/international-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/nominating-committee",
+    "newPath": "/aga-leadership/committees/nominating-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/practice-management-and-economics-committee",
+    "newPath": "/aga-leadership/committees/practice-management-and-economics-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/publications-committee",
+    "newPath": "/aga-leadership/committees/institute-publications-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/quality-measures-committee",
+    "newPath": "/aga-leadership/committees/institute-quality-measures-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/research-policy-committee",
+    "newPath": "/aga-leadership/committees/institute-research-policy-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/trainee-and-young-gi-committee",
+    "newPath": "/aga-leadership/committees/trainee-and-early-career"
+  },
+  {
+    "oldPath": "/about/people/committees/womens-committee",
+    "newPath": "/aga-leadership/committees/women-s-committee"
+  },
+  {
+    "oldPath": "/about/people/committees/aga-payor-policy-workgroup",
+    "newPath": "/aga-leadership/committees"
+  },
+  {
+    "oldPath": "about/people/council-sections",
+    "newPath": "/aga-leadership/council-and-sections"
+  },
+  {
+    "oldPath": "/about/people/council-sections/intestinal-disorders",
+    "newPath": "/aga-leadership/council-and-sections/basic-and-clinical-intestinal-disorders"
+  },
+  {
+    "oldPath": "/about/people/council-sections/Cellular-&-Molecular-Gastroenterology",
+    "newPath": "/aga-leadership/council-and-sections/cellular-and-molecular-gastroenterology"
+  },
+  {
+    "oldPath": "/about/people/council-sections/clincal-practice",
+    "newPath": "/aga-leadership/council-and-sections/clinical-practice"
+  },
+  {
+    "oldPath": "/about/people/council-sections/esophageal-gastric-duodenal-disorders",
+    "newPath": "/aga-leadership/council-and-sections/esophageal-gastric-and-duodenal-disorders"
+  },
+  {
+    "oldPath": "/about/people/council-sections/gastrointestinal-oncology",
+    "newPath": "/aga-leadership/council-and-sections/gastrointestinal-oncology"
+  },
+  {
+    "oldPath": "/about/people/council-sections/growth-development-child-health",
+    "newPath": "/aga-leadership/council-and-sections/growth-development-and-child-health"
+  },
+  {
+    "oldPath": "/about/people/council-sections/imaging-advanced-technology",
+    "newPath": "/aga-leadership/council-and-sections/imaging-endoscopy-and-advanced-technology"
+  },
+  {
+    "oldPath": "/about/people/council-sections/immunology-microbiology-inflammatory-bowel-http://www.gastro.org/about/people/council-sections/immunology-microbiology-inflammatory-bowel-/about/people/council-sections/immunology-microbiology-inflammatory-bowel-diseases",
+    "newPath": "/aga-leadership/council-and-sections/immunology-microbiology-and-inflammatory-bowel-diseases"
+  },
+  {
+    "oldPath": "/about/people/council-sections/liver-biliary",
+    "newPath": "/aga-leadership/council-and-sections/liver-and-biliary"
+  },
+  {
+    "oldPath": "/about/people/council-sections/microbiome-microbial-diseases-in-the-http://www.gastro.org/about/people/council-sections/microbiome-microbial-diseases-in-the-",
+    "newPath": "/aga-leadership/council-and-sections/microbiome-and-microbial-diseases-in-the-gastrointestinal-tract"
+  },
+  {
+    "oldPath": "/about/people/council-sections/neurogastroenterology-motility",
+    "newPath": "/aga-leadership/council-and-sections/neurogastroenterology-and-motility"
+  },
+  {
+    "oldPath": "/about/people/council-sections/obesity-metabolism-nutrition",
+    "newPath": "/aga-leadership/council-and-sections/obesity-metabolism-and-nutrition"
+  },
+  {
+    "oldPath": "/about/people/council-sections/pancreatic-disorders",
+    "newPath": "/aga-leadership/council-and-sections/pancreatic-disorders"
+  },
+  {
+    "oldPath": "/about/people/national-office-staff",
+    "newPath": "/about-aga/national-office-staff"
+  },
+  {
+    "oldPath": "/about/people/staff-contacts-for-frequently-asked-questions",
+    "newPath": "/about-aga/national-office-staff"
+  },
+  {
+    "oldPath": "/about/people/pastpresident",
+    "newPath": "/aga-leadership/aga-institute-governing-board/past-president"
+  },
+  {
+    "oldPath": "/about/people/president",
+    "newPath": "/aga-leadership/aga-institute-governing-board/president"
+  },
+  {
+    "oldPath": "/about/people/president-elect",
+    "newPath": "/aga-leadership/aga-institute-governing-board/president-elect"
+  },
+  {
+    "oldPath": "/about/people/secretarytreasurer",
+    "newPath": "/aga-leadership/aga-institute-governing-board/secretary-treasurer"
+  },
+  {
+    "oldPath": "/about/people/community-private-practice-councillor",
+    "newPath": "/aga-leadership/aga-institute-governing-board/practice-councillor-2"
+  },
+  {
+    "oldPath": "/about/people/councilloratlarge",
+    "newPath": "/aga-leadership/aga-institute-governing-board/at-large-councillor"
+  },
+  {
+    "oldPath": "/about/people/clinical-research-councillor",
+    "newPath": "/aga-leadership/aga-institute-governing-board/clinical-research-councillor"
+  },
+  {
+    "oldPath": "/about/people/practice-councillor",
+    "newPath": "/aga-leadership/aga-institute-governing-board/practice-councillor"
+  },
+  {
+    "oldPath": "/about/people/aga-research-foundation-chair",
+    "newPath": "/aga-leadership/aga-institute-governing-board/aga-research-foundation-chair"
+  },
+  {
+    "oldPath": "/about/people/education-training-councillor",
+    "newPath": "/aga-leadership/aga-institute-governing-board/education-and-training-councillor"
+  },
+  {
+    "oldPath": "/about/people/basic-research-councillor",
+    "newPath": "/aga-leadership/aga-institute-governing-board/basic-research-councillor"
+  },
+  {
+    "oldPath": "/about/people/sponsorship-opportunities",
+    "newPath": "partner.gastro.org/sponsorships"
+  },
+  {
+    "oldPath": "/about/people/corporate-support",
+    "newPath": "partner.gastro.org/corporate-roundtable"
+  },
+  {
+    "oldPath": "/about/people/vice-president",
+    "newPath": "/aga-leadership/aga-institute-governing-board/vice-president"
+  },
+  {
+    "oldPath": "/about/people/aga-research-foundation-chairelect",
+    "newPath": "/aga-leadership/aga-institute-governing-board"
+  },
+  {
+    "oldPath": "/about/people/practice-councillor-2",
+    "newPath": "/aga-leadership/aga-institute-governing-board/practice-councillor-2"
+  },
+  {
+    "oldPath": "/about/people/vice-president-2017",
+    "newPath": "/aga-leadership/aga-institute-governing-board/vice-president"
+  },
+  {
+    "oldPath": "/about/people/secretarytreasurerelect",
+    "newPath": "/aga-leadership/aga-institute-governing-board/secretary-treasurer-elect"
+  },
+  {
+    "oldPath": "/about/initiatives",
+    "newPath": "/aga-leadership/initiatives-and-programs"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-center-for-gut-microbiome-research-education",
+    "newPath": "/aga-leadership/centers/aga-center-for-gut-microbiome-research-and-education"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-roadmap-to-the-future-of-gi-practice",
+    "newPath": "/aga-leadership/centers"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-center-for-gi-innovation-technology",
+    "newPath": "/aga-leadership/centers/aga-center-for-gi-innovation-and-technology"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-center-for-gi-innovation-and-technology/about-the-center",
+    "newPath": "/aga-leadership/centers/aga-center-for-gi-innovation-and-technology"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-center-for-gi-innovation-and-technology/observational-research-device-registries",
+    "newPath": "/research-and-awards/registries-and-studies"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-center-for-gi-innovation-and-technology/resources",
+    "newPath": "/practice-guidance/new-technology-and-techniques"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-center-for-diagnostics-and-therapeutics",
+    "newPath": "/aga-leadership/centers"
+  },
+  {
+    "oldPath": "/about/aga-fellows-program",
+    "newPath": "/aga-leadership/initiatives-and-programs/aga-fellows-program"
+  },
+  {
+    "oldPath": "/about/aga-fellows-program/aga-fellows-program-criteria",
+    "newPath": "/aga-leadership/initiatives-and-programs/aga-fellows-program/aga-fellows-program-criteria"
+  },
+  {
+    "oldPath": "/about/aga-fellows-program/current-aga-fellows",
+    "newPath": "/aga-leadership/initiatives-and-programs/aga-fellows-program/current-aga-fellows"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-membership-criteria",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-resources",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-members-only/academy-references",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-references"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-members-only/variceal-screeningsurveillance",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-members-only/gi-bleeding-follow-up-of-h-pylori-testing-to-ensure-eradication",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-members-only/diarrhea-appropriate-use-of-antibiotics-to-treat-c-diffrecurrent-c-diff",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-members-only/barretts-esophagus-surveillance",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-members-only/appropriate-prescribing-of-reglan",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-membership",
+    "newPath": "http://community.gastro.org/groups/community-home/community-members?communitykey=65e7935d-5496-4c82-aa64-32caa5b3f273&tab=communitymembersdashboard&Execute=1"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-academy-of-educators/academy-grant-awards",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators/academy-of-educators-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2014",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2014/session-1-ibd-esophagus-and-stomach",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2014/session-2-small-and-large-intestine",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2014/session-3-pancreas-and-liver",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2014/session-4-breakouts",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2014/session-5-gi-liver-malignancies",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/2015",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2015/session-1-ibd-esophagus-and-stomach",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2015/session-2-small-and-large-",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/2015/session-3-pancreas-and-liver",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/2015/session-4-breakouts",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/2015/session-5-gi-liver-malignancies",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/nurse-practitioner-and-physician-assistant-resource-center/archives",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center/downloadable-resources"
+  },
+  {
+    "oldPath": "/about/initiatives/future-leaders-faculty",
+    "newPath": "/aga-leadership/initiatives-and-programs/future-leaders-program"
+  },
+  {
+    "oldPath": "/about/initiatives/future-leaders-mentors",
+    "newPath": "/aga-leadership/initiatives-and-programs/future-leaders-program/future-leaders-program-mentor-biographies"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-future-leaders-program",
+    "newPath": "/aga-leadership/initiatives-and-programs/future-leaders-program"
+  },
+  {
+    "oldPath": "/about/initiatives/aga-corporate-roundtable",
+    "newPath": "/aga-leadership/initiatives-and-programs/aga-corporate-roundtable"
+  },
+  {
+    "oldPath": "/about/initiatives/future-leaders-mentees",
+    "newPath": "/aga-leadership/initiatives-and-programs/future-leaders-program/future-leaders-biographies"
+  },
+  {
+    "oldPath": "/about/initiatives/corporate-roundtable-member-benefits",
+    "newPath": "/aga-leadership/initiatives-and-programs/aga-corporate-roundtable"
+  },
+  {
+    "oldPath": "/about/initiatives/acknowledgements",
+    "newPath": "partner.gastro.org/corporate-roundtable"
+  },
+  {
+    "oldPath": "/about/initiatives/industry-cpt-coding-assistance",
+    "newPath": "/practice-guidance/reimbursement/coding/industry-cpt-coding-assistance"
+  },
+  {
+    "oldPath": "/about/awards",
+    "newPath": "/membership/recognition-awards"
+  },
+  {
+    "oldPath": "/about/awards/julius-friedenwald-medal",
+    "newPath": "/membership/recognition-awards/julius-friedenwald-medal"
+  },
+  {
+    "oldPath": "about/awards/distinguished-achievement-award",
+    "newPath": "/membership/recognition-awards/distinguished-achievement-award-in-basic-science"
+  },
+  {
+    "oldPath": "/about/awards/william-beaumont-prize-in-gastroenterology",
+    "newPath": "/membership/recognition-awards/william-beaumont-prize-in-gastroenterology"
+  },
+  {
+    "oldPath": "/about/awards/distinguished-clinician-award",
+    "newPath": "/membership/recognition-awards/distinguished-clinician-awards"
+  },
+  {
+    "oldPath": "/about/awards/distinguished-educator-award",
+    "newPath": "/membership/recognition-awards/distinguished-educator-award"
+  },
+  {
+    "oldPath": "/about/awards/distinguished-mentor-award",
+    "newPath": "/membership/recognition-awards/distinguished-mentor-award"
+  },
+  {
+    "oldPath": "/about/awards/aga-research-service-award",
+    "newPath": " /membership/recognition-awards/research-service-award"
+  },
+  {
+    "oldPath": "/about/awards/agagrg-young-investigator-awards",
+    "newPath": "/membership/recognition-awards/aga-young-investigator-award-in-basic-and-clinical-science"
+  },
+  {
+    "oldPath": "/about/awards/aga-institute-council-section-research-mentor-award",
+    "newPath": "/membership/recognition-awards/aga-institute-council-section-research-mentor-award"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation",
+    "newPath": "/foundation"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/contribute/donors-and-physician-volunteers",
+    "newPath": "/foundation/our-donors"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/contribute/aga-legacy-society",
+    "newPath": "/foundation/our-donors/aga-legacy-society"
+  },
+  {
+    "oldPath": "gastro.planmylegacy.org",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "about/aga-research-foundation/charitable-gift-planning/ways-to-give",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/estate-planning",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/build-your-gift",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/compare-gifts",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/what-to-give",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/plan-by-age",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/resource",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/meet-our-donors",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/quiz-yourself",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/gift-illustrator",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/for-professional-advisors",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/charitable-gift-planning/ebrochures",
+    "newPath": "/foundation/gift-planning"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/contribute",
+    "newPath": "/foundation/ways-to-contribute"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/contribute/aga-legacy-society-members",
+    "newPath": "/foundation/ways-to-contribute"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/contribute/campaign-donors",
+    "newPath": "/foundation/ways-to-contribute"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/grants",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/grants/award-policies",
+    "newPath": "/research-and-awards/research-awards/award-policies"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/grants/award-by-type",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/grants/agaagaeli-edythe-broad-student-research-fellowships",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/grants/moti-l-kamla-rustgi-international-travel-awards",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards/award/aga-moti-l-and-kamla-rustgi-international-travel-awards"
+  },
+  {
+    "oldPath": "/about/aga-research-foundation/grant-recipients/2013-grant-recipients",
+    "newPath": "/research-and-awards/research-awards/meet-our-awardees"
+  },
+  {
+    "oldPath": "/about/industry-partners",
+    "newPath": "partner.gastro.org"
+  },
+  {
+    "oldPath": "/about/welcome-to-the-aga",
+    "newPath": "/membership/welcome-to-aga"
+  },
+  {
+    "oldPath": "/about/strategic-plan",
+    "newPath": "/about-aga/about-us"
+  },
+  {
+    "oldPath": "/about/reports-bylaws",
+    "newPath": "/about-aga/about-us"
+  },
+  {
+    "oldPath": "/about/contact-us",
+    "newPath": "/about-aga/contact-us"
+  },
+  {
+    "oldPath": "/about/agas-mobile-offerings",
+    "newPath": "/about-aga/aga-mobile-offerings"
+  },
+  {
+    "oldPath": "/about/media",
+    "newPath": "/media/media-and-press"
+  },
+  {
+    "oldPath": "/about/embargo-policies",
+    "newPath": "/media/journals-embargo-policy"
+  },
+  {
+    "oldPath": "/about/press-release-archive",
+    "newPath": "/media/media-and-press"
+  },
+  {
+    "oldPath": "/about/advertise-on-gastroorg",
+    "newPath": " https://na01.safelinks.protection.outlook.com/?url=http%3A%2F%2Fwww.ehealthcaresolutions.com%2Fcontact-us%2F%3Fsrc%3Dadv&data=02%7C01%7Cawhite%40gastro.org%7Cc4b6b7fc38004c835c8008d5997c91fc%7Cf6d9e9abcda348ada55286cc9c564258%7C0%7C0%7C636583682730919513&sdata=jTEIBfbdVcpfWiP4m7BdxtYyvgjlwlhuAZ0wt6vPc8o%3D&reserved=0"
+  },
+  {
+    "oldPath": "/about/20152016-industry-supporters",
+    "newPath": "partner.gastro.org"
+  },
+  {
+    "oldPath": "/donate",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=MyDonations"
+  },
+  {
+    "oldPath": "/cart",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?Webcode=COE"
+  },
+  {
+    "oldPath": "/career-center",
+    "newPath": "gicareersearch.com"
+  },
+  {
+    "oldPath": "/career-center/maintenance-of-certification",
+    "newPath": "/meetings-and-learning/maintenance-of-certification"
+  },
+  {
+    "oldPath": "/career-center/moc-faq",
+    "newPath": "/meetings-and-learning/maintenance-of-certification/maintenance-of-certification-faq"
+  },
+  {
+    "oldPath": "/career-center/moc-board-prep-resources",
+    "newPath": "/meetings-and-learning/maintenance-of-certification"
+  },
+  {
+    "oldPath": "/career-center/aga-classifieds",
+    "newPath": "http://gicareersearch.com/"
+  },
+  {
+    "oldPath": "/career-center/classified-placement",
+    "newPath": "https://www.healthecareers.com/employer/account/newclient.asp?aff=aga&SPLD=aga&email="
+  },
+  {
+    "oldPath": "/career-center/maintenance-of-certification-news-item-archive",
+    "newPath": "/meetings-and-learning/maintenance-of-certification"
+  },
+  {
+    "oldPath": "/contact",
+    "newPath": "/about-aga/contact-us"
+  },
+  {
+    "oldPath": "/guidelines-policies",
+    "newPath": "/guidelines"
+  },
+  {
+    "oldPath": "/guidelines/acute-pancreatitis",
+    "newPath": "/guidelines"
+  },
+  {
+    "oldPath": "/sign-up",
+    "newPath": "/membership/join-aga"
+  },
+  {
+    "oldPath": "/sign-up/international-corresponding-membership",
+    "newPath": "/membership/benefits/physicians-and-scientists-outside-of-north-america-benefits"
+  },
+  {
+    "oldPath": "/sign-up/member-renewal-contest",
+    "newPath": "/membership/join-aga"
+  },
+  {
+    "oldPath": "/sign-up/membership-wizard",
+    "newPath": "/membership/join-aga"
+  },
+  {
+    "oldPath": "/contact/contact-aga",
+    "newPath": "/about-aga/contact-us"
+  },
+  {
+    "oldPath": "/membership-wizard",
+    "newPath": "/membership/join-aga"
+  },
+  {
+    "oldPath": "/system/ways-to-give",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=MyDonations"
+  },
+  {
+    "oldPath": "/system/join-or-renew",
+    "newPath": "/membership/join-aga"
+  },
+  {
+    "oldPath": "/advocacy-and-policy/issues-and-news",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+
+  {
+    "oldPath": "/about-us",
+    "newPath": "/about-aga/about-us"
+  },
+  {
+    "oldPath": "/aboutus",
+    "newPath": "/about-aga/about-us"
+  },
+  {
+    "oldPath": "/abstracts",
+    "newPath": "http://www.crohnscolitiscongress.org/CCC1/Public/Content.aspx?ID=46&sortMenu=105005"
+  },
+  {
+    "oldPath": "/academyedu",
+    "newPath": "/aga-leadership/initiatives-and-programs/academy-of-educators"
+  },
+  {
+    "oldPath": "/advertise",
+    "newPath": "http://www.ehealthcaresolutions.com/contact-us/?src=adv"
+  },
+  {
+    "oldPath": "/advertising",
+    "newPath": "http://www.ehealthcaresolutions.com/contact-us/?src=adv"
+  },
+  {
+    "oldPath": "/advocacy",
+    "newPath": "/advocacy-and-policy/issues-and-news/top-issues"
+  },
+  {
+    "oldPath": "/agajournals",
+    "newPath": "http://www.agajournals.org/"
+  },
+  {
+    "oldPath": "/agapac",
+    "newPath": "/advocacy-and-policy/aga-pac"
+  },
+  {
+    "oldPath": "/appcentral",
+    "newPath": "/about-aga/aga-mobile-offerings"
+  },
+  {
+    "oldPath": "/apply",
+    "newPath": "/membership/join-aga"
+  },
+  {
+    "oldPath": "/awards",
+    "newPath": "/research-and-awards/research-awards/apply-for-awards"
+  },
+  {
+    "oldPath": "/biosimilar",
+    "newPath": "http://www.aga-resources.com/biologics/guide/pubData/mobile/index.htm"
+  },
+  {
+    "oldPath": "/biosimilars",
+    "newPath": "http://www.aga-resources.com/biologics/guide/pubData/mobile/index.htm"
+  },
+  {
+    "oldPath": "/cgit",
+    "newPath": "/aga-leadership/centers/aga-center-for-gi-innovation-and-technology"
+  },
+  {
+    "oldPath": "/ChoosingWisely",
+    "newPath": "http://consumerhealthchoices.org/wp-content/uploads/2012/05/ChoosingWiselyHeartburnAGA-ER.pdf"
+  },
+  {
+    "oldPath": "/coding",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/coding-billing-corner",
+    "newPath": "/practice-guidance/reimbursement/coding"
+  },
+  {
+    "oldPath": "/committees",
+    "newPath": "/aga-leadership/committees"
+  },
+  {
+    "oldPath": "/ddsep",
+    "newPath": "buyddsep8.gastro.org"
+  },
+  {
+    "oldPath": "/ddw-highlights",
+    "newPath": "/meetings-and-learning/aga-programming-at-ddw"
+  },
+  {
+    "oldPath": "/donateonline",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=AGARFDonation"
+  },
+  {
+    "oldPath": "/fellowapp",
+    "newPath": "http://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=AGAFApplication"
+  },
+  {
+    "oldPath": "/fellowship",
+    "newPath": "/aga-leadership/initiatives-and-programs/aga-fellows-program"
+  },
+  {
+    "oldPath": "/flp",
+    "newPath": "futureleaders.gastro.org"
+  },
+  {
+    "oldPath": "/FMTRegistry",
+    "newPath": "/research-and-awards/registries-and-studies/fecal-microbiota-transplantation-fmt-national-registry"
+  },
+  {
+    "oldPath": "/full-membership",
+    "newPath": "/membership/benefits"
+  },
+  {
+    "oldPath": "/gilocator",
+    "newPath": "https://go.mygihealth.io/find-a-specialist"
+  },
+  {
+    "oldPath": "/GILocator",
+    "newPath": "https://go.mygihealth.io/find-a-specialist"
+  },
+  {
+    "oldPath": "/giveonline1",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=AGARFDonation&WizardKey=8b0d897c-4305-4140-8dbf-08b0cace9dad&WizardStep=1d21f4f0-8fab-4e67-9d0f-d60ea64845a2&action=add&SourceCode=FDNEOY17MX1"
+  },
+  {
+    "oldPath": "/giveonline2",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=AGARFDonation&WizardKey=8b0d897c-4305-4140-8dbf-08b0cace9dad&WizardStep=1d21f4f0-8fab-4e67-9d0f-d60ea64845a2&action=add&SourceCode=FDNEOY17MP1"
+  },
+  {
+    "oldPath": "/giveonline3",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=AGARFDonation&WizardKey=8b0d897c-4305-4140-8dbf-08b0cace9dad&WizardStep=1d21f4f0-8fab-4e67-9d0f-d60ea64845a2&action=add&SourceCode=FDNEOY17MP2"
+  },
+  {
+    "oldPath": "/GTE",
+    "newPath": "/fellows-and-early-career/training-resources/fellows-resources/aga-gastroenterology-training-examination"
+  },
+  {
+    "oldPath": "/guidelinesapp",
+    "newPath": "/about-aga/aga-mobile-offerings"
+  },
+  {
+    "oldPath": "/join",
+    "newPath": "/membership/join-aga"
+  },
+  {
+    "oldPath": "/macra",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/map",
+    "newPath": "/fellows-and-early-career/mentoring"
+  },
+  {
+    "oldPath": "/Match",
+    "newPath": "/fellows-and-early-career/fellowship-match"
+  },
+  {
+    "oldPath": "/microbiome",
+    "newPath": "/research-and-awards/gut-microbiome"
+  },
+  {
+    "oldPath": "/NewGIFellows",
+    "newPath": "/fellows-and-early-career/training-resources/fellows-resources/10-tips-for-new-gi-fellows"
+  },
+  {
+    "oldPath": "/nppa-center",
+    "newPath": "/aga-leadership/initiatives-and-programs/nurse-practitioner-and-physician-assistant-resource-center"
+  },
+  {
+    "oldPath": "/nppa-membership",
+    "newPath": "/membership/benefits"
+  },
+  {
+    "oldPath": "/obesity",
+    "newPath": "/practice-guidance/practice-updates/obesity-practice-guide"
+  },
+  {
+    "oldPath": "/patient",
+    "newPath": "/practice-guidance/gi-patient-center"
+  },
+  {
+    "oldPath": "/patientinfo",
+    "newPath": "/practice-guidance/gi-patient-center"
+  },
+  {
+    "oldPath": "/pgcourse",
+    "newPath": "pgcourse.gastro.org"
+  },
+  {
+    "oldPath": "/pma-membership",
+    "newPath": "/membership/benefits"
+  },
+  {
+    "oldPath": "/qpp",
+    "newPath": "/practice-guidance/quality-and-performance-measures/quality-payment-program"
+  },
+  {
+    "oldPath": "/renew",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?WebCode=MyMembership"
+  },
+  {
+    "oldPath": "/resident-membership",
+    "newPath": "/membership/benefits"
+  },
+  {
+    "oldPath": "/ruc",
+    "newPath": "/practice-guidance/reimbursement/ruc-process"
+  },
+  {
+    "oldPath": "/student-membership",
+    "newPath": "/membership/benefits"
+  },
+  {
+    "oldPath": "/thenewgastro",
+    "newPath": "https://www.mdedge.com/gihepnews/new-gastroenterologist"
+  },
+  {
+    "oldPath": "/trainee-membership",
+    "newPath": "/membership/benefits"
+  },
+  {
+    "oldPath": "/uptodate",
+    "newPath": "/on-demand/uptodate"
+  },
+  {
+    "oldPath": "/uptodatetrial",
+    "newPath": "https://netforum.gastro.org/eweb/dynamicpage.aspx?webcode=UpToDate"
+  },
+  {
+    "oldPath": "/welcome",
+    "newPath": "/membership/welcome-to-aga"
+  },
+  {
+    "oldPath": "/welcomesurvey",
+    "newPath": "https://netforum.gastro.org/eweb/DynamicPage.aspx?webkey=ff245ba6-ac76-4ba8-ab92-7c6a0b1b4935&srh_key=cd61401d-967d-4f5b-8f55-785b5ef21158&action=add&Site=AGA"
+  },
+  {
+    "oldPath": "/youngdelegates",
+    "newPath": "https://community.gastro.org/home/promo/youngdelegates"
+  }
+]
